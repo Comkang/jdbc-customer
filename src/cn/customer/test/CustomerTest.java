@@ -25,4 +25,8 @@ public class CustomerTest {
             dao.add(c);
         }
     }
+    @Test
+    public void test1(){
+        
+    }
 }
