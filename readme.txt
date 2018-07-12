@@ -1,5 +1,5 @@
 jdbc练习：客户管理的增、删、改、查。
-
+测试测试
 步骤：
     1.创建数据库和表：
     create database customerManager;
