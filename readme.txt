@@ -29,4 +29,4 @@ jdbc练习：客户管理的增、删、改、查。
     5.开发controller层
     
     WEB-INF/page/index.jsp、addCustomer.jsp、findCustomer.jsp、message.jsp
-	测试更新
+	测试更新  猪肝测试
